@@ -1,0 +1,21 @@
+{
+  "name": "a9b/php-battle",
+  "type": "library",
+  "description": "PHP battle class",
+  "keywords": ["a9b","battle","class"],
+  "homepage": "http://github.com/a9b/php-battle",
+  "license": "MIT",
+  "authors": [
+  {
+    "name": "a9b",
+    "email": "a9b.word@gmail.com",
+    "homepage": "http://a9b.jp/"
+  }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": { "A9b": "src/" }
+  }
+}
